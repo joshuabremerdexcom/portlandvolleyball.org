@@ -1,7 +1,4 @@
-#### portlandvolleyball.org
+# portlandvolleyball.org
 
-### Testing
-
-* Do a bunch of setup beforehand like get mysql installed and loaded with data
-* `composer install`
-* `php vendor/bin/codecept run`
+REPO IS DEPRECATED:
+New repo is here: https://github.com/scottiemc7/portlandvolleyball.org
